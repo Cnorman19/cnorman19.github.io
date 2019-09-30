@@ -1,2 +1,2 @@
 # cnorman19.github.io
-My portfolio site.
+My portfolio site.(IN PROGRESS)
